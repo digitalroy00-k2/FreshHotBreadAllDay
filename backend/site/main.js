@@ -12,7 +12,6 @@ document.addEventListener("DOMContentLoaded", function() {
   // ========== PAGE LOADER ==========
   const pageLoader = document.getElementById('page-loader');
   if (pageLoader) {
-    console.log('testing');
     setTimeout(function() {
       pageLoader.classList.add('loaded');
     }, 800);
