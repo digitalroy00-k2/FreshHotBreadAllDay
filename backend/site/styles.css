@@ -2120,6 +2120,7 @@ h1, h2, h3, h4 {
   .product-card {
     gap: 32px;
     padding: 32px;
+   padding:500px!important;
   }
   
   .gallery-grid {
